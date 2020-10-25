@@ -133,7 +133,7 @@ This was one of the first blog posts I wrote while working at Atomic Object. I n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aaronjamesking.com/about/</guid>
-      <description>Hey There! My name&amp;rsquo;s Aaron. I&amp;rsquo;m a full-stack software developer and consultant based in Grand Rapids, Michigan. This blog is mostly for recording my reflections and experiences related to software, but it&amp;rsquo;s also for writing about other things I enjoy, like food and cooking, art, history, and home DIY projects.
+      <description>Hey there! My name&amp;rsquo;s Aaron. I&amp;rsquo;m a full-stack software developer and consultant based in Grand Rapids, Michigan. This blog is mostly for recording my reflections and experiences related to software, but also for writing about other things I enjoy, like food and cooking, art, history, and home DIY projects.
 It&amp;rsquo;s also a place for people to learn about the work that I do. If you need someone to design, build, or maintain your custom software, please check out my Development page to see how I can help!</description>
     </item>
     
@@ -144,7 +144,7 @@ It&amp;rsquo;s also a place for people to learn about the work that I do. If you
       
       <guid>https://www.aaronjamesking.com/development/</guid>
       <description>Experience Over the past 7 years, I&amp;rsquo;ve worked on a wide range of custom software for over a dozen organizations. I know how to design, architect, program, debug, and maintain high-quality systems. I also understand the human aspect of software – the importance of trust, communication, and compassion when building real applications that real people rely on.
-Languages Ruby | C# | Python | Elixir | Clojure | JavaScript | TypeScript | HTML &amp;amp; CSS | Objective-C | C/C++ | Java | SQL</description>
+Languages: Ruby | C# | Python | Elixir | Clojure | JavaScript | TypeScript | HTML &amp;amp; CSS | Objective-C | C/C++ | Java | SQL | Classic ASP</description>
     </item>
     
   </channel>
