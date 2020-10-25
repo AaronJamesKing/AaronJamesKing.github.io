@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>business on Aaron King</title>
-    <link>http://example.org/tags/business/</link>
+    <link>https://aaronjamesking.github.io/tags/business/</link>
     <description>Recent content in business on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: The Culture Cycle</title>
-      <link>http://example.org/posts/2018-03-18-culture-cycle/</link>
+      <link>https://aaronjamesking.github.io/posts/2018-03-18-culture-cycle/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2018-03-18-culture-cycle/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2018-03-18-culture-cycle/</guid>
       <description>https://spin.atomicobject.com/2018/03/18/culture-cycle-at-work/ https://spin.atomicobject.com/2018/05/06/culture-cycle-examples/  This is a two-part blog post I wrote while working at Atomic Object. It&amp;rsquo;s about applying the Culture Cycle to businesses and organizations.</description>
     </item>
     

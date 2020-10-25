@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oss on Aaron King</title>
-    <link>http://example.org/tags/oss/</link>
+    <link>https://aaronjamesking.github.io/tags/oss/</link>
     <description>Recent content in oss on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/tags/oss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Open-Source vs. Build-Your-Own</title>
-      <link>http://example.org/posts/2019-04-02-oss-or-custom-code/</link>
+      <link>https://aaronjamesking.github.io/posts/2019-04-02-oss-or-custom-code/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2019-04-02-oss-or-custom-code/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2019-04-02-oss-or-custom-code/</guid>
       <description>https://spin.atomicobject.com/2019/04/02/open-source-vs-home-made/
 This is a blog post I wrote while working at Atomic Object. It adapts an idea from Mike Marsiglia as a heuristic for when to write your own code instead of relying on OSS.</description>
     </item>

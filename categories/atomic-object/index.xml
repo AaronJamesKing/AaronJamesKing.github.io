@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atomic Object on Aaron King</title>
-    <link>http://example.org/categories/atomic-object/</link>
+    <link>https://aaronjamesking.github.io/categories/atomic-object/</link>
     <description>Recent content in Atomic Object on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/categories/atomic-object/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/categories/atomic-object/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Debugging a NuGet Package</title>
-      <link>http://example.org/posts/2018-01-29-debugging-nuget-package/</link>
+      <link>https://aaronjamesking.github.io/posts/2018-01-29-debugging-nuget-package/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2018-01-29-debugging-nuget-package/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2018-01-29-debugging-nuget-package/</guid>
       <description>https://spin.atomicobject.com/2018/01/29/debugging-nuget-package/
 This was one of the first blog posts I wrote while working at Atomic Object. It explains how to debug NuGet packages locally, which can be a little when you&amp;rsquo;re working with DLL&amp;rsquo;s.</description>
     </item>
     
     <item>
       <title>AO Archive: DIY Factories with Pytest</title>
-      <link>http://example.org/posts/2020-07-17-pytest-factory/</link>
+      <link>https://aaronjamesking.github.io/posts/2020-07-17-pytest-factory/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2020-07-17-pytest-factory/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2020-07-17-pytest-factory/</guid>
       <description>https://spin.atomicobject.com/2020/07/17/pytest-diy-factory-fixture/
 This is a blog post I wrote while working at Atomic Object. It explains how to incorporate a Factory class into PyTest&amp;rsquo;s fixtures, in case you need to easily define scoped resources within specific tests.</description>
     </item>
     
     <item>
       <title>AO Archive: Encrypting Your Existing AWS S3 Objects</title>
-      <link>http://example.org/posts/2020-09-15-encrypting-aws/</link>
+      <link>https://aaronjamesking.github.io/posts/2020-09-15-encrypting-aws/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2020-09-15-encrypting-aws/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2020-09-15-encrypting-aws/</guid>
       <description>https://spin.atomicobject.com/2020/09/15/aws-s3-encrypt-existing-objects/
 This is a blog post I wrote while working at Atomic Object. As the title says, it&amp;rsquo;s a guide to encrypting objects that are already in S3. The process is similar to the one described in this post from the AWS Security Blog, only it involves fewer moving parts and is intended for a simpler situation.</description>
     </item>
     
     <item>
       <title>AO Archive: How to Prototype Quickly</title>
-      <link>http://example.org/posts/2020-03-24-light-speed-prototyping/</link>
+      <link>https://aaronjamesking.github.io/posts/2020-03-24-light-speed-prototyping/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2020-03-24-light-speed-prototyping/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2020-03-24-light-speed-prototyping/</guid>
       <description>https://spin.atomicobject.com/2020/03/24/light-speed-programming/
 This is a blog post I wrote while working at Atomic Object. It provides some advice for prototyping applications in an unusually short timespan.</description>
     </item>
     
     <item>
       <title>AO Archive: Leveraging the Client-Server Boundary</title>
-      <link>http://example.org/posts/2017-11-07-rest-api-client-server/</link>
+      <link>https://aaronjamesking.github.io/posts/2017-11-07-rest-api-client-server/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2017-11-07-rest-api-client-server/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2017-11-07-rest-api-client-server/</guid>
       <description>https://spin.atomicobject.com/2017/11/07/restful-api-client-server/
 This was one of the first blog posts I wrote while working at Atomic Object. I don&amp;rsquo;t think my views on the matter have changed much, especially the last section (&amp;ldquo;The Takeaways&amp;rdquo;).</description>
     </item>
     
     <item>
       <title>AO Archive: Migrating an Ejected CRA to TypeScript</title>
-      <link>http://example.org/posts/2018-07-04-ejected-ts-cra/</link>
+      <link>https://aaronjamesking.github.io/posts/2018-07-04-ejected-ts-cra/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2018-07-04-ejected-ts-cra/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2018-07-04-ejected-ts-cra/</guid>
       <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
 This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
     </item>
     
     <item>
       <title>AO Archive: Open-Source vs. Build-Your-Own</title>
-      <link>http://example.org/posts/2019-04-02-oss-or-custom-code/</link>
+      <link>https://aaronjamesking.github.io/posts/2019-04-02-oss-or-custom-code/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2019-04-02-oss-or-custom-code/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2019-04-02-oss-or-custom-code/</guid>
       <description>https://spin.atomicobject.com/2019/04/02/open-source-vs-home-made/
 This is a blog post I wrote while working at Atomic Object. It adapts an idea from Mike Marsiglia as a heuristic for when to write your own code instead of relying on OSS.</description>
     </item>
     
     <item>
       <title>AO Archive: Rendering Legacy Pages inside React</title>
-      <link>http://example.org/posts/2019-07-19-react-legacy-views/</link>
+      <link>https://aaronjamesking.github.io/posts/2019-07-19-react-legacy-views/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2019-07-19-react-legacy-views/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2019-07-19-react-legacy-views/</guid>
       <description>https://spin.atomicobject.com/2019/07/19/legacy-pages-react-component/
 This is a blog post I wrote while working at Atomic Object. It explains a strategy for slowly migrating an application&amp;rsquo;s frontend from Ruby on Rails to React. I wrote the post shortly after implementing the idea for the first time, and good news – the web app is still successfully using the LegacyPage and LegacyView components!
 One known caveat is that things can get a little hairy when you use the back button if the legacy pages post forms.</description>
@@ -90,39 +90,39 @@ One known caveat is that things can get a little hairy when you use the back but
     
     <item>
       <title>AO Archive: The Culture Cycle</title>
-      <link>http://example.org/posts/2018-03-18-culture-cycle/</link>
+      <link>https://aaronjamesking.github.io/posts/2018-03-18-culture-cycle/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2018-03-18-culture-cycle/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2018-03-18-culture-cycle/</guid>
       <description>https://spin.atomicobject.com/2018/03/18/culture-cycle-at-work/ https://spin.atomicobject.com/2018/05/06/culture-cycle-examples/  This is a two-part blog post I wrote while working at Atomic Object. It&amp;rsquo;s about applying the Culture Cycle to businesses and organizations.</description>
     </item>
     
     <item>
       <title>AO Archive: The Error Handbook</title>
-      <link>http://example.org/posts/2020-05-11-error-handbook/</link>
+      <link>https://aaronjamesking.github.io/posts/2020-05-11-error-handbook/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2020-05-11-error-handbook/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2020-05-11-error-handbook/</guid>
       <description>https://spin.atomicobject.com/2020/05/11/categorize-software-errors/ https://spin.atomicobject.com/2020/05/12/capturing-representing-errors/ https://spin.atomicobject.com/2020/05/13/error-handling-process/  This is a 3-part blog series I wrote while working at Atomic Object. I spent quite a bit of time writing it, and I&amp;rsquo;m not entirely satisfied with the way it turned out. Error handling really is a complicated and important part of programming, and it&amp;rsquo;s hard to get it right a lot of the time.
 I&amp;rsquo;ll almost definitely be expanding on these ideas in future blog posts.</description>
     </item>
     
     <item>
       <title>AO Archive: Transitioning from GUI Editors to Vim</title>
-      <link>http://example.org/posts/2017-09-18-vim/</link>
+      <link>https://aaronjamesking.github.io/posts/2017-09-18-vim/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2017-09-18-vim/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2017-09-18-vim/</guid>
       <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/
 This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
     </item>
     
     <item>
       <title>AO Archive: Unit Testing Phoenix Controllers with Mox</title>
-      <link>http://example.org/posts/2017-12-27-unit-testing-with-mox/</link>
+      <link>https://aaronjamesking.github.io/posts/2017-12-27-unit-testing-with-mox/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2017-12-27-unit-testing-with-mox/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2017-12-27-unit-testing-with-mox/</guid>
       <description>https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction/
 This was one of the first blog posts I wrote while working at Atomic Object. I never got to use Elixir on any projects there, but I still love the language for side projects.</description>
     </item>

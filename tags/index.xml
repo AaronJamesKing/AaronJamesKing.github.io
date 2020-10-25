@@ -2,215 +2,215 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aaron King</title>
-    <link>http://example.org/tags/</link>
+    <link>https://aaronjamesking.github.io/tags/</link>
     <description>Recent content in Tags on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apis</title>
-      <link>http://example.org/tags/apis/</link>
+      <link>https://aaronjamesking.github.io/tags/apis/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/apis/</guid>
+      <guid>https://aaronjamesking.github.io/tags/apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws</title>
-      <link>http://example.org/tags/aws/</link>
+      <link>https://aaronjamesking.github.io/tags/aws/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/aws/</guid>
+      <guid>https://aaronjamesking.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
-      <link>http://example.org/tags/business/</link>
+      <link>https://aaronjamesking.github.io/tags/business/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/business/</guid>
+      <guid>https://aaronjamesking.github.io/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c-sharp</title>
-      <link>http://example.org/tags/c-sharp/</link>
+      <link>https://aaronjamesking.github.io/tags/c-sharp/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/c-sharp/</guid>
+      <guid>https://aaronjamesking.github.io/tags/c-sharp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>culture</title>
-      <link>http://example.org/tags/culture/</link>
+      <link>https://aaronjamesking.github.io/tags/culture/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/culture/</guid>
+      <guid>https://aaronjamesking.github.io/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debugging</title>
-      <link>http://example.org/tags/debugging/</link>
+      <link>https://aaronjamesking.github.io/tags/debugging/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/debugging/</guid>
+      <guid>https://aaronjamesking.github.io/tags/debugging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://aaronjamesking.github.io/tags/development/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://aaronjamesking.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>efficiency</title>
-      <link>http://example.org/tags/efficiency/</link>
+      <link>https://aaronjamesking.github.io/tags/efficiency/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/efficiency/</guid>
+      <guid>https://aaronjamesking.github.io/tags/efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elixir</title>
-      <link>http://example.org/tags/elixir/</link>
+      <link>https://aaronjamesking.github.io/tags/elixir/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/elixir/</guid>
+      <guid>https://aaronjamesking.github.io/tags/elixir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>errors</title>
-      <link>http://example.org/tags/errors/</link>
+      <link>https://aaronjamesking.github.io/tags/errors/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/errors/</guid>
+      <guid>https://aaronjamesking.github.io/tags/errors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mox</title>
-      <link>http://example.org/tags/mox/</link>
+      <link>https://aaronjamesking.github.io/tags/mox/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/mox/</guid>
+      <guid>https://aaronjamesking.github.io/tags/mox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nuget</title>
-      <link>http://example.org/tags/nuget/</link>
+      <link>https://aaronjamesking.github.io/tags/nuget/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/nuget/</guid>
+      <guid>https://aaronjamesking.github.io/tags/nuget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oss</title>
-      <link>http://example.org/tags/oss/</link>
+      <link>https://aaronjamesking.github.io/tags/oss/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/oss/</guid>
+      <guid>https://aaronjamesking.github.io/tags/oss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phoenix</title>
-      <link>http://example.org/tags/phoenix/</link>
+      <link>https://aaronjamesking.github.io/tags/phoenix/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/phoenix/</guid>
+      <guid>https://aaronjamesking.github.io/tags/phoenix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prototypes</title>
-      <link>http://example.org/tags/prototypes/</link>
+      <link>https://aaronjamesking.github.io/tags/prototypes/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/prototypes/</guid>
+      <guid>https://aaronjamesking.github.io/tags/prototypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychology</title>
-      <link>http://example.org/tags/psychology/</link>
+      <link>https://aaronjamesking.github.io/tags/psychology/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/psychology/</guid>
+      <guid>https://aaronjamesking.github.io/tags/psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://example.org/tags/python/</link>
+      <link>https://aaronjamesking.github.io/tags/python/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/python/</guid>
+      <guid>https://aaronjamesking.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>http://example.org/tags/react/</link>
+      <link>https://aaronjamesking.github.io/tags/react/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/react/</guid>
+      <guid>https://aaronjamesking.github.io/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ruby-on-rails</title>
-      <link>http://example.org/tags/ruby-on-rails/</link>
+      <link>https://aaronjamesking.github.io/tags/ruby-on-rails/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/ruby-on-rails/</guid>
+      <guid>https://aaronjamesking.github.io/tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>http://example.org/tags/security/</link>
+      <link>https://aaronjamesking.github.io/tags/security/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/security/</guid>
+      <guid>https://aaronjamesking.github.io/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testing</title>
-      <link>http://example.org/tags/testing/</link>
+      <link>https://aaronjamesking.github.io/tags/testing/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/testing/</guid>
+      <guid>https://aaronjamesking.github.io/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typescript</title>
-      <link>http://example.org/tags/typescript/</link>
+      <link>https://aaronjamesking.github.io/tags/typescript/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/typescript/</guid>
+      <guid>https://aaronjamesking.github.io/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>http://example.org/tags/vim/</link>
+      <link>https://aaronjamesking.github.io/tags/vim/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/tags/vim/</guid>
+      <guid>https://aaronjamesking.github.io/tags/vim/</guid>
       <description></description>
     </item>
     

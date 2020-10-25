@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>react on Aaron King</title>
-    <link>http://example.org/tags/react/</link>
+    <link>https://aaronjamesking.github.io/tags/react/</link>
     <description>Recent content in react on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Migrating an Ejected CRA to TypeScript</title>
-      <link>http://example.org/posts/2018-07-04-ejected-ts-cra/</link>
+      <link>https://aaronjamesking.github.io/posts/2018-07-04-ejected-ts-cra/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2018-07-04-ejected-ts-cra/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2018-07-04-ejected-ts-cra/</guid>
       <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
 This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
     </item>
     
     <item>
       <title>AO Archive: Rendering Legacy Pages inside React</title>
-      <link>http://example.org/posts/2019-07-19-react-legacy-views/</link>
+      <link>https://aaronjamesking.github.io/posts/2019-07-19-react-legacy-views/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>http://example.org/posts/2019-07-19-react-legacy-views/</guid>
+      <guid>https://aaronjamesking.github.io/posts/2019-07-19-react-legacy-views/</guid>
       <description>https://spin.atomicobject.com/2019/07/19/legacy-pages-react-component/
 This is a blog post I wrote while working at Atomic Object. It explains a strategy for slowly migrating an application&amp;rsquo;s frontend from Ruby on Rails to React. I wrote the post shortly after implementing the idea for the first time, and good news – the web app is still successfully using the LegacyPage and LegacyView components!
 One known caveat is that things can get a little hairy when you use the back button if the legacy pages post forms.</description>
