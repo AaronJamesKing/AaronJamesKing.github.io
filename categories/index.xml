@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aaron King</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Aaron King</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>http://example.org/categories/architecture/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic Object</title>
+      <link>http://example.org/categories/atomic-object/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/categories/atomic-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://example.org/categories/cloud/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://example.org/categories/programming/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://example.org/categories/work/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/categories/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

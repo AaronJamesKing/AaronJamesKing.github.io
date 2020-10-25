@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aaron King</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Aaron King</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apis</title>
+      <link>http://example.org/tags/apis/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>http://example.org/tags/aws/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>http://example.org/tags/business/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c-sharp</title>
+      <link>http://example.org/tags/c-sharp/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>culture</title>
+      <link>http://example.org/tags/culture/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debugging</title>
+      <link>http://example.org/tags/debugging/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>http://example.org/tags/development/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efficiency</title>
+      <link>http://example.org/tags/efficiency/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elixir</title>
+      <link>http://example.org/tags/elixir/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>errors</title>
+      <link>http://example.org/tags/errors/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mox</title>
+      <link>http://example.org/tags/mox/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/mox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nuget</title>
+      <link>http://example.org/tags/nuget/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/nuget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oss</title>
+      <link>http://example.org/tags/oss/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phoenix</title>
+      <link>http://example.org/tags/phoenix/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/phoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prototypes</title>
+      <link>http://example.org/tags/prototypes/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>http://example.org/tags/psychology/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://example.org/tags/python/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>http://example.org/tags/react/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby-on-rails</title>
+      <link>http://example.org/tags/ruby-on-rails/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://example.org/tags/security/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>http://example.org/tags/testing/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>http://example.org/tags/typescript/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>http://example.org/tags/vim/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

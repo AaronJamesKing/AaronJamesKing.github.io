@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on Aaron King</title>
+    <link>http://example.org/tags/vim/</link>
+    <description>Recent content in vim on Aaron King</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AO Archive: Transitioning from GUI Editors to Vim</title>
+      <link>http://example.org/posts/2017-09-18-vim/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2017-09-18-vim/</guid>
+      <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/
+This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
+    </item>
+    
+  </channel>
+</rss>

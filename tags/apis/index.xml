@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apis on Aaron King</title>
+    <link>http://example.org/tags/apis/</link>
+    <description>Recent content in apis on Aaron King</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AO Archive: Leveraging the Client-Server Boundary</title>
+      <link>http://example.org/posts/2017-11-07-rest-api-client-server/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2017-11-07-rest-api-client-server/</guid>
+      <description>https://spin.atomicobject.com/2017/11/07/restful-api-client-server/
+This was one of the first blog posts I wrote while working at Atomic Object. I don&amp;rsquo;t think my views on the matter have changed much, especially the last section (&amp;ldquo;The Takeaways&amp;rdquo;).</description>
+    </item>
+    
+  </channel>
+</rss>
