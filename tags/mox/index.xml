@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mox on Aaron King</title>
-    <link>https://aaronjamesking.github.io/tags/mox/</link>
+    <link>https://www.aaronjamesking.com/tags/mox/</link>
     <description>Recent content in mox on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/tags/mox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/tags/mox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Unit Testing Phoenix Controllers with Mox</title>
-      <link>https://aaronjamesking.github.io/posts/2017-12-27-unit-testing-with-mox/</link>
+      <link>https://www.aaronjamesking.com/posts/2017-12-27-unit-testing-with-mox/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/posts/2017-12-27-unit-testing-with-mox/</guid>
+      <guid>https://www.aaronjamesking.com/posts/2017-12-27-unit-testing-with-mox/</guid>
       <description>https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction/
 This was one of the first blog posts I wrote while working at Atomic Object. I never got to use Elixir on any projects there, but I still love the language for side projects.</description>
     </item>

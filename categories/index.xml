@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aaron King</title>
-    <link>https://aaronjamesking.github.io/categories/</link>
+    <link>https://www.aaronjamesking.com/categories/</link>
     <description>Recent content in Categories on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
-      <link>https://aaronjamesking.github.io/categories/architecture/</link>
+      <link>https://www.aaronjamesking.com/categories/architecture/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/categories/architecture/</guid>
+      <guid>https://www.aaronjamesking.com/categories/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomic Object</title>
-      <link>https://aaronjamesking.github.io/categories/atomic-object/</link>
+      <link>https://www.aaronjamesking.com/categories/atomic-object/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/categories/atomic-object/</guid>
+      <guid>https://www.aaronjamesking.com/categories/atomic-object/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>https://aaronjamesking.github.io/categories/cloud/</link>
+      <link>https://www.aaronjamesking.com/categories/cloud/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/categories/cloud/</guid>
+      <guid>https://www.aaronjamesking.com/categories/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://aaronjamesking.github.io/categories/programming/</link>
+      <link>https://www.aaronjamesking.com/categories/programming/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/categories/programming/</guid>
+      <guid>https://www.aaronjamesking.com/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://aaronjamesking.github.io/categories/work/</link>
+      <link>https://www.aaronjamesking.com/categories/work/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/categories/work/</guid>
+      <guid>https://www.aaronjamesking.com/categories/work/</guid>
       <description></description>
     </item>
     

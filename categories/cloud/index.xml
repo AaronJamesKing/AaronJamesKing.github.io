@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Aaron King</title>
-    <link>https://aaronjamesking.github.io/categories/cloud/</link>
+    <link>https://www.aaronjamesking.com/categories/cloud/</link>
     <description>Recent content in Cloud on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://aaronjamesking.github.io/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Encrypting Your Existing AWS S3 Objects</title>
-      <link>https://aaronjamesking.github.io/posts/2020-09-15-encrypting-aws/</link>
+      <link>https://www.aaronjamesking.com/posts/2020-09-15-encrypting-aws/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
       
-      <guid>https://aaronjamesking.github.io/posts/2020-09-15-encrypting-aws/</guid>
+      <guid>https://www.aaronjamesking.com/posts/2020-09-15-encrypting-aws/</guid>
       <description>https://spin.atomicobject.com/2020/09/15/aws-s3-encrypt-existing-objects/
 This is a blog post I wrote while working at Atomic Object. As the title says, it&amp;rsquo;s a guide to encrypting objects that are already in S3. The process is similar to the one described in this post from the AWS Security Blog, only it involves fewer moving parts and is intended for a simpler situation.</description>
     </item>
