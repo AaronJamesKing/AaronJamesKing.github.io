@@ -6,16 +6,14 @@
     <description>Recent content in typescript on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.aaronjamesking.com/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Migrating an Ejected CRA to TypeScript</title>
       <link>https://www.aaronjamesking.com/posts/2018-07-04-ejected-ts-cra/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2018-07-04-ejected-ts-cra/</guid>
-      <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
-This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
+      <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/&#xA;This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
     </item>
-    
   </channel>
 </rss>

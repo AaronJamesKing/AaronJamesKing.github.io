@@ -6,16 +6,14 @@
     <description>Recent content in errors on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/tags/errors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.aaronjamesking.com/tags/errors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: The Error Handbook</title>
       <link>https://www.aaronjamesking.com/posts/2020-05-11-error-handbook/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-05-11-error-handbook/</guid>
-      <description>https://spin.atomicobject.com/2020/05/11/categorize-software-errors/ https://spin.atomicobject.com/2020/05/12/capturing-representing-errors/ https://spin.atomicobject.com/2020/05/13/error-handling-process/  This is a 3-part blog series I wrote while working at Atomic Object. I spent quite a bit of time writing it, and I&amp;rsquo;m not entirely satisfied with the way it turned out. Error handling really is a complicated and important part of programming, and it&amp;rsquo;s hard to get it right a lot of the time.
-I&amp;rsquo;ll almost definitely be expanding on these ideas in future blog posts.</description>
+      <description>https://spin.atomicobject.com/2020/05/11/categorize-software-errors/ https://spin.atomicobject.com/2020/05/12/capturing-representing-errors/ https://spin.atomicobject.com/2020/05/13/error-handling-process/ This is a 3-part blog series I wrote while working at Atomic Object. I spent quite a bit of time writing it, and I&amp;rsquo;m not entirely satisfied with the way it turned out. Error handling really is a complicated and important part of programming, and it&amp;rsquo;s hard to get it right a lot of the time.&#xA;I&amp;rsquo;ll almost definitely be expanding on these ideas in future blog posts.</description>
     </item>
-    
   </channel>
 </rss>

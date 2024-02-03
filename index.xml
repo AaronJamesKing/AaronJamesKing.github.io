@@ -6,156 +6,112 @@
     <description>Recent content on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.aaronjamesking.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Take a Code Vacation</title>
       <link>https://www.aaronjamesking.com/posts/2020-11-17-take-a-code-vacation/</link>
       <pubDate>Sat, 19 Dec 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-11-17-take-a-code-vacation/</guid>
-      <description>https://spin.atomicobject.com/2020/11/17/code-vacation/
-This is a blog post I wrote while working at Atomic Object. It&amp;rsquo;s a guide to exploring unfamiliar codebases as a way to take a &amp;ldquo;vacation&amp;rdquo; from the ones you work in everyday.</description>
+      <description>https://spin.atomicobject.com/2020/11/17/code-vacation/&#xA;This is a blog post I wrote while working at Atomic Object. It&amp;rsquo;s a guide to exploring unfamiliar codebases as a way to take a &amp;ldquo;vacation&amp;rdquo; from the ones you work in everyday.</description>
     </item>
-    
     <item>
       <title>AO Archive: Debugging a NuGet Package</title>
       <link>https://www.aaronjamesking.com/posts/2018-01-29-debugging-nuget-package/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2018-01-29-debugging-nuget-package/</guid>
-      <description>https://spin.atomicobject.com/2018/01/29/debugging-nuget-package/
-This was one of the first blog posts I wrote while working at Atomic Object. It explains how to debug NuGet packages locally, which can be a little when you&amp;rsquo;re working with DLL&amp;rsquo;s.</description>
+      <description>https://spin.atomicobject.com/2018/01/29/debugging-nuget-package/&#xA;This was one of the first blog posts I wrote while working at Atomic Object. It explains how to debug NuGet packages locally, which can be a little when you&amp;rsquo;re working with DLL&amp;rsquo;s.</description>
     </item>
-    
     <item>
       <title>AO Archive: DIY Factories with Pytest</title>
       <link>https://www.aaronjamesking.com/posts/2020-07-17-pytest-factory/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-07-17-pytest-factory/</guid>
-      <description>https://spin.atomicobject.com/2020/07/17/pytest-diy-factory-fixture/
-This is a blog post I wrote while working at Atomic Object. It explains how to incorporate a Factory class into PyTest&amp;rsquo;s fixtures, in case you need to easily define scoped resources within specific tests.</description>
+      <description>https://spin.atomicobject.com/2020/07/17/pytest-diy-factory-fixture/&#xA;This is a blog post I wrote while working at Atomic Object. It explains how to incorporate a Factory class into PyTest&amp;rsquo;s fixtures, in case you need to easily define scoped resources within specific tests.</description>
     </item>
-    
     <item>
       <title>AO Archive: Encrypting Your Existing AWS S3 Objects</title>
       <link>https://www.aaronjamesking.com/posts/2020-09-15-encrypting-aws/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-09-15-encrypting-aws/</guid>
-      <description>https://spin.atomicobject.com/2020/09/15/aws-s3-encrypt-existing-objects/
-This is a blog post I wrote while working at Atomic Object. As the title says, it&amp;rsquo;s a guide to encrypting objects that are already in S3. The process is similar to the one described in this post from the AWS Security Blog, only it involves fewer moving parts and is intended for a simpler situation.</description>
+      <description>https://spin.atomicobject.com/2020/09/15/aws-s3-encrypt-existing-objects/&#xA;This is a blog post I wrote while working at Atomic Object. As the title says, it&amp;rsquo;s a guide to encrypting objects that are already in S3. The process is similar to the one described in this post from the AWS Security Blog, only it involves fewer moving parts and is intended for a simpler situation.</description>
     </item>
-    
     <item>
       <title>AO Archive: How to Prototype Quickly</title>
       <link>https://www.aaronjamesking.com/posts/2020-03-24-light-speed-prototyping/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-03-24-light-speed-prototyping/</guid>
-      <description>https://spin.atomicobject.com/2020/03/24/light-speed-programming/
-This is a blog post I wrote while working at Atomic Object. It provides some advice for prototyping applications in an unusually short timespan.</description>
+      <description>https://spin.atomicobject.com/2020/03/24/light-speed-programming/&#xA;This is a blog post I wrote while working at Atomic Object. It provides some advice for prototyping applications in an unusually short timespan.</description>
     </item>
-    
     <item>
       <title>AO Archive: Leveraging the Client-Server Boundary</title>
       <link>https://www.aaronjamesking.com/posts/2017-11-07-rest-api-client-server/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2017-11-07-rest-api-client-server/</guid>
-      <description>https://spin.atomicobject.com/2017/11/07/restful-api-client-server/
-This was one of the first blog posts I wrote while working at Atomic Object. I don&amp;rsquo;t think my views on the matter have changed much, especially the last section (&amp;ldquo;The Takeaways&amp;rdquo;).</description>
+      <description>https://spin.atomicobject.com/2017/11/07/restful-api-client-server/&#xA;This was one of the first blog posts I wrote while working at Atomic Object. I don&amp;rsquo;t think my views on the matter have changed much, especially the last section (&amp;ldquo;The Takeaways&amp;rdquo;).</description>
     </item>
-    
     <item>
       <title>AO Archive: Migrating an Ejected CRA to TypeScript</title>
       <link>https://www.aaronjamesking.com/posts/2018-07-04-ejected-ts-cra/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2018-07-04-ejected-ts-cra/</guid>
-      <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
-This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
+      <description>https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/&#xA;This is a blog post I wrote while working at Atomic Object. To be honest, I&amp;rsquo;m not positive how relevant it is today, given that Create React App has evolved so much and TypeScript has become so much more popular (which is a great thing!)</description>
     </item>
-    
     <item>
       <title>AO Archive: Open-Source vs. Build-Your-Own</title>
       <link>https://www.aaronjamesking.com/posts/2019-04-02-oss-or-custom-code/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2019-04-02-oss-or-custom-code/</guid>
-      <description>https://spin.atomicobject.com/2019/04/02/open-source-vs-home-made/
-This is a blog post I wrote while working at Atomic Object. It adapts an idea from Mike Marsiglia as a heuristic for when to write your own code instead of relying on OSS.</description>
+      <description>https://spin.atomicobject.com/2019/04/02/open-source-vs-home-made/&#xA;This is a blog post I wrote while working at Atomic Object. It adapts an idea from Mike Marsiglia as a heuristic for when to write your own code instead of relying on OSS.</description>
     </item>
-    
     <item>
       <title>AO Archive: Rendering Legacy Pages inside React</title>
       <link>https://www.aaronjamesking.com/posts/2019-07-19-react-legacy-views/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2019-07-19-react-legacy-views/</guid>
-      <description>https://spin.atomicobject.com/2019/07/19/legacy-pages-react-component/
-This is a blog post I wrote while working at Atomic Object. It explains a strategy for slowly migrating an application&amp;rsquo;s frontend from Ruby on Rails to React. I wrote the post shortly after implementing the idea for the first time, and good news – the web app is still successfully using the LegacyPage and LegacyView components!
-One known caveat is that things can get a little hairy when you use the back button if the legacy pages post forms.</description>
+      <description>https://spin.atomicobject.com/2019/07/19/legacy-pages-react-component/&#xA;This is a blog post I wrote while working at Atomic Object. It explains a strategy for slowly migrating an application&amp;rsquo;s frontend from Ruby on Rails to React. I wrote the post shortly after implementing the idea for the first time, and good news – the web app is still successfully using the LegacyPage and LegacyView components!&#xA;One known caveat is that things can get a little hairy when you use the back button if the legacy pages post forms.</description>
     </item>
-    
     <item>
       <title>AO Archive: The Culture Cycle</title>
       <link>https://www.aaronjamesking.com/posts/2018-03-18-culture-cycle/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2018-03-18-culture-cycle/</guid>
-      <description>https://spin.atomicobject.com/2018/03/18/culture-cycle-at-work/ https://spin.atomicobject.com/2018/05/06/culture-cycle-examples/  This is a two-part blog post I wrote while working at Atomic Object. It&amp;rsquo;s about applying the Culture Cycle to businesses and organizations.</description>
+      <description>https://spin.atomicobject.com/2018/03/18/culture-cycle-at-work/ https://spin.atomicobject.com/2018/05/06/culture-cycle-examples/ This is a two-part blog post I wrote while working at Atomic Object. It&amp;rsquo;s about applying the Culture Cycle to businesses and organizations.</description>
     </item>
-    
     <item>
       <title>AO Archive: The Error Handbook</title>
       <link>https://www.aaronjamesking.com/posts/2020-05-11-error-handbook/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-05-11-error-handbook/</guid>
-      <description>https://spin.atomicobject.com/2020/05/11/categorize-software-errors/ https://spin.atomicobject.com/2020/05/12/capturing-representing-errors/ https://spin.atomicobject.com/2020/05/13/error-handling-process/  This is a 3-part blog series I wrote while working at Atomic Object. I spent quite a bit of time writing it, and I&amp;rsquo;m not entirely satisfied with the way it turned out. Error handling really is a complicated and important part of programming, and it&amp;rsquo;s hard to get it right a lot of the time.
-I&amp;rsquo;ll almost definitely be expanding on these ideas in future blog posts.</description>
+      <description>https://spin.atomicobject.com/2020/05/11/categorize-software-errors/ https://spin.atomicobject.com/2020/05/12/capturing-representing-errors/ https://spin.atomicobject.com/2020/05/13/error-handling-process/ This is a 3-part blog series I wrote while working at Atomic Object. I spent quite a bit of time writing it, and I&amp;rsquo;m not entirely satisfied with the way it turned out. Error handling really is a complicated and important part of programming, and it&amp;rsquo;s hard to get it right a lot of the time.&#xA;I&amp;rsquo;ll almost definitely be expanding on these ideas in future blog posts.</description>
     </item>
-    
     <item>
       <title>AO Archive: Transitioning from GUI Editors to Vim</title>
       <link>https://www.aaronjamesking.com/posts/2017-09-18-vim/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2017-09-18-vim/</guid>
-      <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/
-This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
+      <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/&#xA;This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
     </item>
-    
     <item>
       <title>AO Archive: Unit Testing Phoenix Controllers with Mox</title>
       <link>https://www.aaronjamesking.com/posts/2017-12-27-unit-testing-with-mox/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2017-12-27-unit-testing-with-mox/</guid>
-      <description>https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction/
-This was one of the first blog posts I wrote while working at Atomic Object. I never got to use Elixir on any projects there, but I still love the language for side projects.</description>
+      <description>https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction/&#xA;This was one of the first blog posts I wrote while working at Atomic Object. I never got to use Elixir on any projects there, but I still love the language for side projects.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://www.aaronjamesking.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.aaronjamesking.com/about/</guid>
-      <description>Hey there! My name&amp;rsquo;s Aaron. I&amp;rsquo;m a full-stack software developer and consultant based in Grand Rapids, Michigan. This blog is mostly for recording my reflections and experiences related to software, but also for writing about other things I enjoy, like food and cooking, art, history, and home DIY projects.
-It&amp;rsquo;s also a place for people to learn about the work that I do. If you need someone to design, build, or maintain your custom software, please check out my Development page to see how I can help!</description>
+      <description>Hey there! My name&amp;rsquo;s Aaron. I&amp;rsquo;m a full-stack software developer and consultant based in Grand Rapids, Michigan. I started programming in high school, studied computer science at Stanford University, began my career at a top-ranked consultancy, learned from some excellent mentors along the way, and most recently helped launch an all-remote startup as the founding engineer.&#xA;If you need someone to design, build, or maintain your custom software, please check out the Development page to see how I can help!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://www.aaronjamesking.com/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.aaronjamesking.com/development/</guid>
-      <description>Experience Over the past 7 years, I&amp;rsquo;ve worked on a wide range of custom software for over a dozen organizations. I know how to design, architect, program, debug, and maintain high-quality systems. I also understand the human aspect of software – the importance of trust, communication, and compassion when building real applications that real people rely on.
-Work Here&amp;rsquo;s a sample of what I&amp;rsquo;ve built and achieved for clients over the years:</description>
+      <description>Development Since 2013 I&amp;rsquo;ve worked on a wide range of custom software for over a dozen organizations, large and small.&#xA;I know how to architect, program, debug, and maintain high-quality systems. I also understand the human aspect of software – the importance of communication, trust, and empathy when building real applications that real people rely on.&#xA;Experience Here&amp;rsquo;s a small sample of what I&amp;rsquo;ve helped clients achieve over the years:</description>
     </item>
-    
   </channel>
 </rss>

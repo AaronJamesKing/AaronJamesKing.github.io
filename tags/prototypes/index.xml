@@ -6,16 +6,14 @@
     <description>Recent content in prototypes on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/tags/prototypes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.aaronjamesking.com/tags/prototypes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: How to Prototype Quickly</title>
       <link>https://www.aaronjamesking.com/posts/2020-03-24-light-speed-prototyping/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2020-03-24-light-speed-prototyping/</guid>
-      <description>https://spin.atomicobject.com/2020/03/24/light-speed-programming/
-This is a blog post I wrote while working at Atomic Object. It provides some advice for prototyping applications in an unusually short timespan.</description>
+      <description>https://spin.atomicobject.com/2020/03/24/light-speed-programming/&#xA;This is a blog post I wrote while working at Atomic Object. It provides some advice for prototyping applications in an unusually short timespan.</description>
     </item>
-    
   </channel>
 </rss>

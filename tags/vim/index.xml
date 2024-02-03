@@ -6,16 +6,14 @@
     <description>Recent content in vim on Aaron King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://www.aaronjamesking.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.aaronjamesking.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO Archive: Transitioning from GUI Editors to Vim</title>
       <link>https://www.aaronjamesking.com/posts/2017-09-18-vim/</link>
       <pubDate>Sat, 24 Oct 2020 12:00:00 -0400</pubDate>
-      
       <guid>https://www.aaronjamesking.com/posts/2017-09-18-vim/</guid>
-      <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/
-This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
+      <description>https://spin.atomicobject.com/2017/09/18/vim-essentials/&#xA;This was my very first blog post written at Atomic Object! A lot of Atoms use vim – sometimes inside of an IDE like VS Code, and sometimes just in a shell. My first project was lead by Mike Swieton, who is a bit of a vim expert. He taught me a lot of the basics, and then I used various online materials to learn the rest of what I know.</description>
     </item>
-    
   </channel>
 </rss>
