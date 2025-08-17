@@ -1,0 +1,173 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: rgb(40, 40, 40)
+}
+
+body {
+  color: rgb(34, 34, 34);
+  font-family: "Source Serif 4", sans-serif;
+  line-height: 1.5;
+  margin: auto;
+  max-width: 992px;
+  background-color: rgba(180, 140, 85, 0.03);
+  font-size: 1.1rem;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__brand {
+  display: flex;
+  align-items: center;
+}
+
+.header__brand img {
+  height: 50px;
+  width: auto;
+}
+
+.header__title {
+  margin: 0;
+  margin-left: 12px;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  cursor: default;
+}
+
+.header-nav ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  gap: 1rem;
+}
+
+.header-nav li {
+  list-style: none;
+  font-family: "League Spartan", sans-serif;
+}
+
+main {
+  padding: 1rem;
+}
+
+@media only screen and (max-width: 576px) {
+  main {
+    padding: 1.25rem;
+  }
+}
+
+footer {
+  padding: 1rem;
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: rgb(1, 15, 170);
+  text-decoration: none;
+}
+
+.services {
+  margin-bottom: 4rem;
+}
+
+.services__sections-container {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  margin-top: 3.2rem;
+}
+
+.services__section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+
+.services__section:nth-child(odd) {
+  flex-direction: row;
+}
+
+.services__section:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.services__image {
+  width: 200px;
+  border: 2px solid rgba(34, 34, 34, 0.1);
+  min-height: 20px;
+  border-radius: 50%;
+}
+
+.services__content strong {
+  font-weight: 600;
+}
+
+.services h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+.services h1 {
+  font-size: 3rem;
+}
+
+.services h2 {
+  font-size: 2.5rem;
+}
+
+.services h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.25rem;
+}
+
+.services__section p {
+  margin: 0;
+}
+
+.services ul {
+  padding-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .services__section {
+    align-items: stretch;
+    gap: 1.2rem;
+  }
+
+  .services__section:nth-child(odd) {
+    flex-direction: column;
+  }
+
+  .services__section:nth-child(even) {
+    flex-direction: column;
+  }
+
+  .services__image {
+    width: 150px;
+    margin: auto;
+  }
+
+  .services__content {
+    width: 100%;
+  }
+}
+
+._no-interaction {
+  pointer-events: none;
+  user-select: none;
+}
