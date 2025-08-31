@@ -50,4 +50,15 @@ Renders a menu for the given menu ID.
   {{- end }}
 {{- end }}
 
-<button onclick="document.getElementById('menu-modal').showModal()">Show Modal</button>
+<button
+  class="nav-modal-btn"
+  aria-label="Open navigation menu"
+  aria-expanded="false"
+  onclick="document.getElementById('nav-modal').showModal()"
+>
+  <svg class="nav-modal-btn__icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="nav-modal-btn__line top"    d="M4 7h16" />
+    <path class="nav-modal-btn__line middle" d="M4 12h16" />
+    <path class="nav-modal-btn__line bottom" d="M4 17h16" />
+  </svg>
+</button>

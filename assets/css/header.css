@@ -49,25 +49,18 @@ header {
   font-family: var(--font-league-spartan);
 }
 
-.menu-modal {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  margin: 0;
-  border: none;
-}
-
 @media only screen and (max-width: 576px) {
+  header {
+    padding: 0.5rem;
+  }
+
   .header__title {
     font-size: 1.5rem;
   }
 }
 
-/* Prevent scrolling the body when the menu dialog is open */
-body:has(dialog.menu-modal[open]) {
-    overflow: hidden;
+@media only screen and (max-width: 768px) {
+  .header-nav {
+    display: none;
+  }
 }
