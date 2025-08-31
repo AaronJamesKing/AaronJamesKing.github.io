@@ -1,4 +1,53 @@
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
 <dialog id="nav-modal" class="nav-modal">
-  <h1>Welcome!</h1>
-  <p>Click Close or press esc to close modal</p>
+  <button
+    class="close-btn"
+    aria-label="Close"
+    title="Close"
+    onclick="document.getElementById('nav-modal').close()"
+  >
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path class="x" d="M6 6 L18 18 M6 18 L18 6"></path>
+    </svg>
+  </button>
+
+  {{- with index site.Menus $menuID }}
+    <ul class="nav-modal__list">
+      {{- partial "inline/menu/walk-modal.html" (dict "page" $page "menuEntries" .) }}
+    </ul>
+  {{- end }}
+
+  {{- define "partials/inline/menu/walk-modal.html" }}
+    {{- $page := .page }}
+    {{- range .menuEntries }}
+      {{- $attrs := dict "href" .URL }}
+      {{- if $page.IsMenuCurrent .Menu . }}
+        {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+      {{- else if $page.HasMenuCurrent .Menu .}}
+        {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+      {{- end }}
+      {{- $name := .Name }}
+      {{- with .Identifier }}
+        {{- with T . }}
+          {{- $name = . }}
+        {{- end }}
+      {{- end }}
+      <li class="nav-modal__list-item">
+        <a
+          {{- range $k, $v := $attrs }}
+            {{- with $v }}
+              {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+            {{- end }}
+          {{- end -}}
+        >{{ $name }}</a>
+        {{- with .Children }}
+          <ul>
+            {{- partial "inline/menu/walk-modal.html" (dict "page" $page "menuEntries" .) }}
+          </ul>
+        {{- end }}
+      </li>
+    {{- end }}
+  {{- end }}
 </dialog>

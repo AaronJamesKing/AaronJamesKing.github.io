@@ -2,7 +2,7 @@
   --font-league-spartan: "League Spartan", sans-serif;
   --font-source-serif: "Source Serif 4", sans-serif;
 
-  --color-blue-dark: rgb(1, 15, 170);
+  --color-blue-dark: 1, 15, 170;
   --color-black-light: 34, 34, 34;
   /* --color-orange-white is equivalent to rbga(180, 140, 85, 0.03) on top of white */
   --color-orange-white: 252, 251, 250;
@@ -45,8 +45,12 @@ main {
 }
 
 a {
-  color: var(--color-blue-dark);
+  color: rgb(var(--color-blue-dark));
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 @media only screen and (max-width: 576px) {

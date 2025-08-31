@@ -4,7 +4,7 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  {{ partial "nav-modal.html" . }}
+  {{ partial "nav-modal.html" (dict "menuID" "main" "page" .) }}
   <div class="container">
     <header>
       {{ partial "header.html" . }}
