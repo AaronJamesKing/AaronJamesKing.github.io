@@ -1,6 +1,5 @@
 header {
   border-bottom: var(--border-major);
-  margin-bottom: 1rem;
   padding: 1rem;
   display: flex;
   flex-direction: row;

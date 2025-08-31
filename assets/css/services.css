@@ -1,4 +1,5 @@
 .services {
+  margin-top: 1rem;
   margin-bottom: 4rem;
 }
 
@@ -33,7 +34,7 @@
   font-weight: 600;
 }
 
-.services h1, h2, h3, h4, h5, h6 {
+.services h1, .services h2, .services h3, .services h4, .services h5, .services h6 {
   margin: 0;
 }
 
