@@ -2,3 +2,15 @@
   pointer-events: none;
   user-select: none;
 }
+
+._text-red {
+  color: rgb(172, 29, 29);
+}
+
+._text-purple {
+  color: rgb(97, 28, 148);
+}
+
+._text-blue {
+  color: rgb(0, 118, 135);
+}
