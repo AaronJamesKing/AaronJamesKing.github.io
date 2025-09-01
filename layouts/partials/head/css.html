@@ -4,7 +4,6 @@
 {{- if eq hugo.Environment "development" }}
   <link rel="stylesheet" href="{{ $combined.RelPermalink }}">
 {{- else }}
-  {{- with . | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $combined.RelPermalink }}" integrity="{{ $combined.Data.Integrity }}" crossorigin="anonymous">
-  {{- end }}
+  {{- $minified := $combined | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $minified.RelPermalink }}" integrity="{{ $minified.Data.Integrity }}" crossorigin="anonymous">
 {{- end }}
