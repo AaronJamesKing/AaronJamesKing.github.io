@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-league-spartan);
   font-weight: 500;
   line-height: 1.2;
-  color: rgb(40, 40, 40)
+  color: rgb(40, 40, 40);
 }
 
 body {

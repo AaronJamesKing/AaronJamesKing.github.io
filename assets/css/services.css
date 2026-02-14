@@ -1,87 +1,67 @@
 .services {
   margin-top: 1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
-.services__sections-container {
-  display: flex;
-  flex-direction: column;
-  gap: 4rem;
-  margin-top: 3.2rem;
+.services__description {
+  font-size: 1.3rem;
 }
 
-.services__section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 3rem;
+.services__cards-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
 }
 
-.services__section:nth-child(odd) {
-  flex-direction: row;
+.services__card {
+  border: 1px solid #004c46;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  background-color: #3f5a4f09;
 }
 
-.services__section:nth-child(even) {
-  flex-direction: row-reverse;
-}
-
-.services__image {
-  width: 200px;
-  min-height: 20px;
-}
-
-.services__content strong {
-  font-weight: 600;
-}
-
-.services h1, .services h2, .services h3, .services h4, .services h5, .services h6 {
+.services__card-header {
   margin: 0;
-}
-
-.services h1 {
-  font-size: 3rem;
-}
-
-.services h2 {
-  font-size: 2.5rem;
-}
-
-.services h3 {
-  font-size: 1.8rem;
-  margin-bottom: 0.25rem;
-}
-
-.services__section p {
-  margin: 0;
-}
-
-.services ul {
-  padding-left: 1rem;
+  font-size: 2.3rem;
   display: flex;
-  flex-direction: column;
-  gap: 2rem;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.services__card-header-icon {
+  font-size: 2rem;
+  cursor: default;
+  line-height: 1.5;
+}
+
+.services__card-subheader {
+  font-family: var(--font-league-spartan);
+  font-weight: 500;
+  line-height: 1.2;
+  color: rgb(50, 50, 50);
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.services__card-description {
+  margin-top: 1rem;
 }
 
 @media only screen and (max-width: 768px) {
-  .services__section {
-    align-items: stretch;
-    gap: 1.2rem;
+  .services {
+    margin-top: 0rem;
   }
 
-  .services__section:nth-child(odd) {
-    flex-direction: column;
+  .services__description {
+    margin-top: 0.5rem;
   }
 
-  .services__section:nth-child(even) {
-    flex-direction: column;
+  .services__cards-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 
-  .services__image {
-    width: 150px;
-    margin: auto;
-  }
-
-  .services__content {
-    width: 100%;
+  .services__card {
+    padding: 1.5rem 2rem;
   }
 }
