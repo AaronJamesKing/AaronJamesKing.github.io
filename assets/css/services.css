@@ -14,10 +14,10 @@
 }
 
 .services__card {
-  border: 1px solid #004c46;
+  border: 1px solid rgb(var(--color-brand-green));
   border-radius: 1rem;
   padding: 1.5rem;
-  background-color: #3f5a4f09;
+  background-color: var(--bg-offwhite);
 }
 
 .services__card-header {

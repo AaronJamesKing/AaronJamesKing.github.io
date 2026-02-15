@@ -3,9 +3,13 @@
   --font-source-serif: "Source Serif 4", sans-serif;
 
   --color-blue-dark: 1, 15, 170;
+  --color-brand-green: 0, 76, 70;
   --color-black-light: 34, 34, 34;
   /* --color-orange-white is equivalent to rbga(180, 140, 85, 0.03) on top of white */
   --color-orange-white: 252, 251, 250;
+  
+  --color-green-dark-dull: 63, 90, 79;
+  --bg-offwhite: rgba(var(--color-green-dark-dull), 0.04);
 
   --border-major: 0.5px solid rgba(var(--color-black-light), 0.5);
 }

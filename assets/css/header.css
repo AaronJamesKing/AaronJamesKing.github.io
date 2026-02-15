@@ -33,7 +33,9 @@ header {
   cursor: default;
 }
 
-.header-nav { }
+.header-nav a { 
+  color: rgb(var(--color-brand-green));
+}
 
 .header-nav ul {
   display: flex;
