@@ -1,0 +1,9 @@
+.service-page__prose {
+  margin-bottom: 0.5rem; 
+}
+
+.service-page__list li {
+  list-style: circle;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}

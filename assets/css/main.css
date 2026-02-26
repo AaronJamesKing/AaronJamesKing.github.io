@@ -10,6 +10,7 @@
   
   --color-green-dark-dull: 63, 90, 79;
   --bg-offwhite: rgba(var(--color-green-dark-dull), 0.04);
+  --bg-offwhite-hover: rgba(var(--color-green-dark-dull), 0.08);
 
   --border-major: 0.5px solid rgba(var(--color-black-light), 0.5);
 }

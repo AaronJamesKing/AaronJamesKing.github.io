@@ -30,7 +30,12 @@ header {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
-  cursor: default;
+  /* cursor: default; */
+  color: unset;
+}
+
+.header__title:hover {
+  text-decoration: none;
 }
 
 .header-nav a { 
