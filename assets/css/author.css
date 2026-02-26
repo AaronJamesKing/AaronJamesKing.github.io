@@ -1,0 +1,31 @@
+.author {
+  width: fit-content;
+  border: 1px solid rgb(var(--color-brand-green));
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem 0.5rem 0.8rem;
+  background-color: var(--bg-offwhite);
+  transition: background-color 0.12s ease-in-out;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.author__img {
+  border-radius: 50%;
+}
+
+.author__title {
+  font-family: var(--font-league-spartan);
+  font-size: 1.4rem;
+}
+
+.author__subtitle {
+  font-family: var(--font-league-spartan);
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 576px) {
+  .author {
+    width: auto;
+  }
+}

@@ -7,3 +7,9 @@
   margin-bottom: 0.8rem;
   line-height: 1.6;
 }
+
+@media only screen and (max-width: 576px) {
+  .service-page__list {
+    padding-left: 1rem;
+  }
+}
